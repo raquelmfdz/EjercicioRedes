@@ -17,7 +17,9 @@ Tendremos tres servidores web:
 Existirá un servidor DNS para resolver los nombres anteriores.  
 Todas las redes deben estar etiquetadas.  
 
-En el archivo PDF adjunto se detallan en las tablas las IP’s utilizadas en el ejercicio. ¡ATENCIÓN! En la tabla adjunta en el PDF hay un error en la última subred. La submáscara de la misma es: 255.255.255.248 (ya que al aplicar la fórmula obtenemos 3 bits apagados para el host y 5 encendidos para la red).
+En el archivo PDF adjunto se detallan en las tablas las IP’s utilizadas en el ejercicio. 
+
+¡ATENCIÓN! En la tabla adjunta en el PDF hay un error en la última subred. La submáscara de la misma es: 255.255.255.248 (ya que al aplicar la fórmula obtenemos 3 bits apagados para el host y 5 encendidos para la red).
 ***
 ###### PREBASES
 
